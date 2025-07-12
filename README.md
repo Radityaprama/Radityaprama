@@ -1,12 +1,6 @@
 <!-- 🌊 Banner Header -->
 <p align="center">
-  <<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3BF7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Raditya+Prama;Informatics+Engineering+Student+at+Telkom+University;Computer+Vision+%7C+ML+%7C+AI+Enthusiast;Open+to+Machine+Learning+Roles" />
-</p>
-
-<!-- 👋 Intro Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3BF7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Raditya+Prama;Informatics+Engineering+Student;Computer+Vision+%7C+ML+%7C+AI+Enthusiast;Open+to+Machine+Learning+Roles" />
 </p>
 
 ---
@@ -27,7 +21,7 @@ Currently open to opportunities in **ML engineering** or **data-centric roles**.
 
 ### 🛠️ Tech Stack & Tools
 
-<p>
+<p align="center">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
@@ -59,8 +53,14 @@ Currently open to opportunities in **ML engineering** or **data-centric roles**.
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raditya-prama-699aa4284)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prama.rdtya)
+<p align="center">
+  <a href="https://linkedin.com/in/raditya-prama-699aa4284">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/prama.rdtya">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 

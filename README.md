@@ -38,7 +38,7 @@ Currently open to opportunities in **ML engineering** or **data-centric roles**.
 |--------|-------------|------------|
 | **Object Detection System** | Real-time object detection using YOLO and OpenCV | Python, OpenCV, YOLO |
 | **Sensor Anomaly Detection** | Detecting anomalies in sensor data from oil & gas industry | Pandas, Scikit-learn |
-| **Apriori Web Analysis** | Web app for transaction analysis using Apriori | PHP, MySQL, Bootstrap |
+| **Twitter Analysis Sentiment** | Web app for transaction analysis using Apriori | Python, Pandas, NLTK |
 
 ---
 
@@ -71,7 +71,7 @@ Currently open to opportunities in **ML engineering** or **data-centric roles**.
   <a href="https://linkedin.com/in/raditya-prama-699aa4284" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/prama.rdtya" target="_blank">
+  <a href="https://www.instagram.com/rdtyaa.el?igsh=MWZnbnZjbHc4OGx0NQ%3D%3D&utm_source=qr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
   </a>
 </div>

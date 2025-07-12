@@ -1,6 +1,7 @@
 <!-- 🌊 Banner Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Raditya%20Prama&fontSize=40&fontColor=ffffff&desc=AI%20%7C%20Computer%20Vision%20%7C%20ML%20Enthusiast&descSize=20&animation=fadeIn" />
+  <<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3BF7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Raditya+Prama;Informatics+Engineering+Student+at+Telkom+University;Computer+Vision+%7C+ML+%7C+AI+Enthusiast;Open+to+Machine+Learning+Roles" />
 </p>
 
 <!-- 👋 Intro Typing Animation -->

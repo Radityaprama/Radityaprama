@@ -38,7 +38,7 @@ Currently open to opportunities in **ML engineering** or **data-centric roles**.
 |--------|-------------|------------|
 | **Object Detection System** | Real-time object detection using YOLO and OpenCV | Python, OpenCV, YOLO |
 | **Sensor Anomaly Detection** | Detecting anomalies in sensor data from oil & gas industry | Pandas, Scikit-learn |
-| **Twitter Analysis Sentiment** | Web app for transaction analysis using Apriori | Python, Pandas, NLTK |
+| **Twitter Analysis Sentiment** | Analyzing public opinion or sentiment toward a specific topic on Twitter | Python, Pandas, NLTK |
 
 ---
 

@@ -57,7 +57,7 @@ Currently open to opportunities in **ML engineering** or **data-centric roles**.
   <a href="https://linkedin.com/in/raditya-prama-699aa4284">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/prama.rdtya">
+  <a href="https://www.instagram.com/rdtyaa.el?igsh=MWZnbnZjbHc4OGx0NQ%3D%3D&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>

@@ -1,4 +1,4 @@
-<!-- 🌊 Banner Header -->
+<!-- 👋 Animated Typing Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3BF7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Raditya+Prama;Informatics+Engineering+Student+at+Telkom+University;Computer+Vision+%7C+ML+%7C+AI+Enthusiast;Open+to+Machine+Learning+Roles" />
 </p>
@@ -21,7 +21,7 @@ Currently open to opportunities in **ML engineering** or **data-centric roles**.
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="center">
+<p>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
@@ -51,19 +51,34 @@ Currently open to opportunities in **ML engineering** or **data-centric roles**.
 
 ---
 
-### 📫 Let's Connect
+### 🧠 Contribution Animations
 
-<p align="center">
-  <a href="https://linkedin.com/in/raditya-prama-699aa4284">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/rdtyaa.el?igsh=MWZnbnZjbHc4OGx0NQ%3D%3D&utm_source=qr">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+<!-- 🟡 Pacman Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radityaprama/Radityaprama/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Radityaprama/Radityaprama/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Radityaprama/Radityaprama/output/pacman-contribution-graph.svg">
+</picture>
+
+<!-- 🐍 Snake Animation -->
+<img src="https://raw.githubusercontent.com/Radityaprama/Radityaprama/output/snake.svg" alt="Snake animation" />
 
 ---
 
+### 📫 Connect with Me
+
+<div align="left">
+  <a href="https://linkedin.com/in/raditya-prama-699aa4284" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/prama.rdtya" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
+  </a>
+</div>
+
+---
+
+<!-- 🌊 Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>

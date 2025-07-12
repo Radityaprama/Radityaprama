@@ -68,8 +68,6 @@ Currently open to opportunities in **ML engineering** or **data-centric roles**.
 
 ---
 
-### 🐍 Snake Contribution Animation
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Radityaprama/Radityaprama/output/snake.svg" alt="Snake animation" />
 </p>

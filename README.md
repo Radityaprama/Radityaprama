@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-I'm an **Informatics Engineering student** at **Telkom University, Purwokerto**  
+I'm an **Informatics Engineering graduate** at **Telkom University, Purwokerto**  
 with a strong passion for **Computer Vision**, **Machine Learning**, and **AI** technologies.  
 I enjoy solving real-world problems with code and data.  
 Currently open to opportunities in **ML engineering** or **data-centric roles**.

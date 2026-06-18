@@ -7,14 +7,14 @@
 
 ### 👨‍💻 About Me
 
-I'm an **Informatics Engineering graduate** at **Telkom University, Purwokerto**  
-with a strong passion for **Computer Vision**, **Machine Learning**, and **AI** technologies.  
+I'm an **Informatics Engineering graduate** at **Telkom University**  
+with a strong passion for **Project Management**, **Product Manager**, and **ERP** technologies.  
 I enjoy solving real-world problems with code and data.  
-Currently open to opportunities in **ML engineering** or **data-centric roles**.
+Currently open to opportunities in **Project Management** or **data-centric roles**.
 
 - 🧠 AI & Computer Vision Enthusiast  
-- 💼 Open to work as **Machine Learning Engineer**  
-- 🎓 Student at Telkom University, Central Java  
+- 💼 Open to work as **Project Management and Product Management**  
+- 🎓 Student at Telkom University  
 - 🌍 Interested in building intelligent systems for automation, detection, and prediction  
 
 ---
